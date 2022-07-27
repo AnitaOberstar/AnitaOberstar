@@ -3,7 +3,7 @@
 - 👀 I’m interested in learning new things
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on interesting projects
-- 📫 Contact me @discord userName: Anita123
+- 📫 Contact me @[LinkedIn](https://www.linkedin.com/in/anita-oberstar-3a66a523b/)
 
 <!---
 AnitaOberstar/AnitaOberstar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
